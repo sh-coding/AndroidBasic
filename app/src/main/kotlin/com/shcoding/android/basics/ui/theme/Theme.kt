@@ -1,6 +1,5 @@
-package com.shcoding.android.basic.ui.theme
+package com.shcoding.android.basics.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

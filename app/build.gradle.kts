@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.shcoding.android.basic"
+    namespace = "com.shcoding.android.basics"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.shcoding.android.basic"
+        applicationId = "com.shcoding.android.basics"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
